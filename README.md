@@ -4,7 +4,7 @@
 
 ## Steps to run locally
 
-1. clone the repository `git clone https://github.com/krishnagopal596/urlslicer.git`
+1. clone the repository `git clone https://github.com/sv1729/URLSORT.git`
 2. create a virtual environment using `python -m venv venv` or `virtualenv venv`
 3. Now activate the virtualenv using `\venv\Scripts\activate` or `source venv/bin/activate`
 4. Now install packages using `pip install -r requirements.txt`
